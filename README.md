@@ -30,16 +30,16 @@ AuroraCRM is a lightweight, elegant CRM built for freelancers, startups, small t
 ## Screenshots
 
 ### Dashboard
-![Dashboard](/public/screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard.png)
 
 ### Leads Management
-![Leads](/public/screenshots/leads.png)
+![Leads](public/screenshots/leads.png)
 
 ### Pipeline Board
-![Pipeline](/public/screenshots/pipeline.png)
+![Pipeline](public/screenshots/pipeline.png)
 
 ### Settings
-![Settings](/public/screenshots/settings.png)
+![Settings](public/screenshots/settings.png)
 
 ## Tech Stack
 
